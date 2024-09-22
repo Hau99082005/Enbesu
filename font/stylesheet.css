@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'HLT Festival Scrip tPro';
+    src: url('HLTFestivalScriptPro.woff2') format('woff2'),
+        url('HLTFestivalScriptPro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

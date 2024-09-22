@@ -1,0 +1,9 @@
+CREATE TABLE orders {
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    product VARCHAR(255) NOT NULL,
+    quantily INT NOT NULL,
+    name VARCHAR(255) NOT NULL,
+    address VARCHAR(255) NOT NULL,
+    phone VARCHAR(15) NOT NULL
+
+};
